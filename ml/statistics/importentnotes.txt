@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 Statistics
 
 How to Learn Statistics for Data Science As A Self Starter
@@ -60,6 +53,7 @@ Advanced Stats
 28. Poisson Disstribution
 29. Application Of Non Gaussian Distribution
 
+---> Most importent of the data meaning it can be measure   the only we can able plly statistics 
 
 
 
@@ -74,14 +68,4 @@ Advanced Stats
 
 
 
-
-
-most importent of the data meaning it can be measure   the only we can able plly statistics 
-sampling(s) --> small part  of data  will consider depens up on how much tou will take as sample (eg - 10/100)--> considered only 10 percentage
-population(N) --> it considered entier data (100%)
-
-Sampling Techniques :-
-
-1) Sample Random Sampling :- 
-population:-  we need to pick  ramdmoly  
 
